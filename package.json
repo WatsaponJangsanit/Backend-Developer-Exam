@@ -1,0 +1,9 @@
+{
+    "name": "quiz-game",
+    "version": "0.0.1",
+    "private": "true",
+    "author": "Junior",
+    "dependencies": {
+        "express": ""
+    }
+}
